@@ -7,3 +7,5 @@ Another gallery built with Bootstrap
 - HTML
 - CSS and Bootstrap
 - VSCode
+
+## View [Live](https://codepen.io/laura-rodd/full/bGdKePW)
